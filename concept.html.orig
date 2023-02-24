@@ -56,6 +56,12 @@
         <section>
             <h2>Identité visuelle</h2>
             <h3>Le logo</h3>
+<<<<<<< HEAD
+            <a href="https://looka.com/" target="_blank">https://looka.com/</a>
+            <h3>La palette de couleurs</h3>
+            <h3>Les typographies</h3>
+        </section>
+=======
             <p>Le logo a été créé avec Looka et réorienter par la suite sur Photoshop.</p>
             <img src="images/logo_tremblay.svg" alt="Logo de l'hôtel Château Tremblay">
 
@@ -68,6 +74,7 @@
             <h4 class="typographie-2">EB Garamond</h4>
             <p class="typographie-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat, deleniti? Voluptate delectus, excepturi sit veniam labore quas! Molestias dolor hic at accusantium suscipit corporis sapiente rerum assumenda! Libero, similique architecto? Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil minima accusamus, assumenda asperiores repellendus voluptate sint, modi optio atque a amet beatae velit perspiciatis? Possimus recusandae vitae maxime laborum accusantium.</p>         
         </section>        
+>>>>>>> 9a5afbd5aefd6356a9fd1931d1df5e663a6ef112
     </main>
 </body>
 
