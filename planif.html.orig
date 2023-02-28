@@ -45,6 +45,20 @@
         </section>
         <section>
             <h2>Rétroaction globale sur le travail d’équipe (motivation, charge et problèmes)</h2>
+<<<<<<< HEAD
+            <p>
+                Étant donné la nature du travail , la charge est très résonnable. Le potentiel de situation
+                problématique est surtout au momment de lier les documents ensemble sur GitHub ( merge conflict ). Cette
+                dernière situation a été explorée amplement lors de la dernière semaine de travail et ne représente pas un énorme
+                risque.
+            </p>
+            <p>
+                Le seul petit problème durant le projet a été la maladie. Mais étant donné la charge de travail assez légère,
+                il a été très facile de se réorganiser.
+            </p>
+            <p> 
+                C'est toujours un plaisir de travailler avec des personnes qui sont motivées. Tel était le cas de notre équipe. Organnisation, compréhension et entraide nous ont permis d'apprécier à fond le désir de vouloir toujours travailler ensemble.
+=======
             <p>Étant donné la nature du travail, la charge est très raisonnable selon moi. Le potentiel de situation
                 problématique est surtout au moment de lier les documents ensemble sur GitHub ( merge conflit ). Cette
                 dernière situation a été explorée amplement lors des dernières semaines et ne représente pas un énorme
@@ -54,6 +68,7 @@
                 Pour ce qui est de la motivation, en ce qui me concerne , elle est liée à la nécessitée. Dans mon cas,
                 Il est nécessaire d'obtenir les atouts qui me permettrons d'avoir un travail pouvant subvenir aux
                 besoins de ma famille.
+>>>>>>> SamDev
             </p>
         </section>
         <section>
